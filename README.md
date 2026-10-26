@@ -1,16 +1,16 @@
 # Hi, I'm Camille! 👋
-# Computer Engineering Student | Software Development | Embedded Systems | Machine Learning
+## Computer Engineering Student | Software Development | Embedded Systems | Machine Learning
 
 I'm a senior Computer Engineering student at Marian University in Indianapolis, graduating in May 2027, with a minor in Mathematics.
 I'm passionate about combining software and engineering to develop practical solutions, particularly in embedded systems, machine learning, robotics, and data-driven applications.
 My academic experience includes programming, control systems, machine learning, engineering design, and technical problem-solving. I'm currently expanding my software development portfolio through engineering simulations and applied programming projects.
 
-# 💻 Technical Skills
+## 💻 Technical Skills
 
-# Programming Languages
+### Programming Languages
 Python • C++ • Java • JavaScript • SQL • MATLAB • HTML
 
-# Engineering & Development
+### Engineering & Development
 - Embedded Systems and Sensor Applications
 - Machine Learning and Data Analysis
 - Control Systems and Mathematical Modeling
@@ -18,13 +18,13 @@ Python • C++ • Java • JavaScript • SQL • MATLAB • HTML
 - Digital Signal Processing
 - Engineering Design and Prototyping
 
-# Tools & Technologies
+### Tools & Technologies
 Git • GitHub • Linux • NumPy • OpenCV • MATLAB • Excel
 
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-# 🦾 Wearable EMG Signal Processing — Phase 1
+### 🦾 Wearable EMG Signal Processing — Phase 1
 
 Python | NumPy | SciPy | Signal Processing
 
@@ -34,7 +34,7 @@ An exploratory software project connected to my Computer Engineering Senior Desi
 
 The initial implementation uses synthetic EMG signals to explore filtering, RMS calculations, muscle activation detection, and visualization before potential integration with physical measurement hardware.
 
-# ⚙️ PID Control Systems Simulator
+### ⚙️ PID Control Systems Simulator
 
 Python | NumPy | Matplotlib | Control Theory
 
@@ -44,7 +44,7 @@ The project investigates transient response, overshoot, settling time, steady-st
 
 In development — repository link coming soon.
 
-# 🔬 Senior Design Project
+### 🔬 Senior Design Project
 
 Adaptive Wearable Electrode and Sensor Interface for Post-Stroke Rehabilitation
 
@@ -54,12 +54,12 @@ Our work explores anatomical fit, electrode placement, material selection, and p
 
 I'm particularly interested in exploring how software-based signal analysis can complement future physical prototype testing.
 
-# 🎓 Education & Leadership
+## 🎓 Education & Leadership
 - Marian University — Indianapolis, IN
 - Bachelor of Science in Computer Engineering | Expected May 2027
 - Minor in Mathematics
 
-# Campus Involvement
+### Campus Involvement
 
 - Co-Founder & President — Society of Hispanic Professional Engineers (SHPE)
 - Social Media Manager - American Society of Civil Engineers (ASCE)
@@ -67,14 +67,14 @@ I'm particularly interested in exploring how software-based signal analysis can 
 - Engineering Office Assistant
 - Resident Assistant experience
 
-# 🌱 Currently Exploring
+## 🌱 Currently Exploring
 - Applied Machine Learning
 - Embedded Software Development
 - Sensor Data Processing
 - Feedback Control and Automation
 - Software Engineering Best Practices
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 I'm interested in opportunities in software engineering, embedded systems, machine learning, and related engineering fields.
 
