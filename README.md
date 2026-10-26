@@ -74,10 +74,12 @@ I'm particularly interested in exploring how software-based signal analysis can 
 - Feedback Control and Automation
 - Software Engineering Best Practices
 
-📫 Connect With Me
+# 📫 Connect With Me
 
 I'm interested in opportunities in software engineering, embedded systems, machine learning, and related engineering fields.
 
 GitHub: github.com/camillecastro
+Linkedin: https://www.linkedin.com/in/camillecastro23/
+E-mail: camillesimoes2303@gmail.com
 
 Always learning, building, and exploring the intersection of software and engineering.
